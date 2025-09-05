@@ -14,7 +14,7 @@ function App() {
         const mn = await generateMnemonic();
         setmnemonic(mn)
       }}>
-        create seed pharse
+        create mnemonic pharse
       </button>
     </>
   )
